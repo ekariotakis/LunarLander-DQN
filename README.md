@@ -5,17 +5,13 @@ and the implementation of a Deep Q-Learning agent for solving a control task.
 The task we sought to solve is “LunarLander-v2”, by OpenAI Gym.
 The goal of this task is to land a small spacecraft in between two of two flags.
 
+
+# Setup
 In order to run the project, you need to have an environment with installed
-Python 3.9.10
-PyTorch 1.10.2
-OpenAI Gym
-
-> #### In order to run the project, you need to have an environment with installed
->
-> - Python 3.9.10
-> - PyTorch 1.10.2
-> - OpenAI Gym
-
+- `Python 3.9.10`
+- `PyTorch 1.10.2`
+- `OpenAI Gym`
+***Note:*** In order to run the `LunarLander-v2` you need to install `box2d-py`, also, which does not come along with the installation of `OpenAI Gym`.
 
 # Tensorboard Logs
 The tensorboard logs are stored in folder `./logs` in the main project directory.
