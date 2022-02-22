@@ -11,6 +11,7 @@ In order to run the project, you need to have an environment with installed
 - `Python 3.9.10`
 - `PyTorch 1.10.2`
 - `OpenAI Gym`
+
 ***Note:*** In order to run the `LunarLander-v2` you need to install `box2d-py`, also, which does not come along with the installation of `OpenAI Gym`.
 
 # Tensorboard Logs
