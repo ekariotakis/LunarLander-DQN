@@ -2,9 +2,8 @@
 This project is part of the course **Autonomous Agents** at School of Electrical and Computer Engineering, Technical University of Crete.
 The purpose of this project is the understanding of Q-Learning, a Reinforcement Learning Algorithm, 
 and the implementation of a Deep Q-Learning agent for solving a control task.
-The task we sought to solve is “LunarLander-v2”, by OpenAI Gym [s]. The goal of this
-task is to land a small spacecraft in between two of two flags.
-
+The task we sought to solve is “LunarLander-v2”, by OpenAI Gym.
+The goal of this task is to land a small spacecraft in between two of two flags.
 
 
 # Tensorboard Logs
