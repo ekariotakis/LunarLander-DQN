@@ -131,3 +131,5 @@ dmypy.json
 # My extras
 figures/
 ploting.ipynb
+csv_data/
+lologs/
