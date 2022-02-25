@@ -7,6 +7,10 @@ and the implementation of a Deep Q-Learning agent for solving a control task.
 The task we sought to solve is “LunarLander-v2”, by OpenAI Gym.
 The goal of this task is to land a small spacecraft in between two of two flags.
 
+# Code
+There are two main folders, `./dqn` and `./dueling_dqn` which implement a simple DQN agent and a dueling-DQN agent, accordingly.
+
+(you can find more information about them in the `Report.pdf` file, in the section "Implementation")
 
 # Setup
 In order to run the project, you need to have an environment with installed
